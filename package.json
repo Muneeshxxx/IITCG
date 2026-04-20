@@ -71,6 +71,7 @@
         "node": "18.x",
         "npm": "9.x"
     },
+    "packageManager": "npm@9.0.0",
     "devDependencies": {
         "autoprefixer": "^10.4.19",
         "globals": "^16.2.0",
