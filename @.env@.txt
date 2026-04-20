@@ -1,0 +1,4 @@
+New File → .env
+NODE_ENV=production
+MONGODB_URI=mongodb+srv://username:pass@cluster.mongodb.net/iitcg?retryWrites=true&w=majority
+JWT_SECRET=generate_64_char_secret_here_very_secure
